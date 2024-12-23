@@ -16,7 +16,7 @@ class DefaultColors {
   static const Color receiverMessage = Color(0xFF373E4E);
   static const Color sentMessageInput = Color(0xFF3D4354);
   static const Color messageListPage = Color(0xFF292F3F);
-  static const Color buttonColor = Color(0xFF7a8194);
+  static const Color buttonColor = Color.fromARGB(255, 1, 64, 86);
 }
 
 class AppTheme {
